@@ -1,0 +1,7 @@
+.table{
+    margin: 0 auto;
+}
+.div_table{
+    overflow: auto;
+    max-height: 500px;
+}

@@ -1,0 +1,41 @@
+body {
+  margin: 0; 
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  monospace;
+}
+h1,h2,h3,h4,h5,p{
+  margin: 0;
+}
+
+
+button {
+	text-decoration:none;
+	font-family:Arial;
+	text-indent:0px;
+	line-height:32px;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	text-align:center;
+	vertical-align:middle;
+	display:inline-block;
+	font-size:20px;
+	color:#ffffff;
+	width:124px;
+	height:32px;
+	padding:1px;
+	border-color:#659dab;
+	border-width:0px;
+	border-style:solid;
+  background-color: rgb(183, 104, 235);
+}
+
+button:active {
+	position:relative;
+	top:2px
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: rgb(141, 84, 163);
+}

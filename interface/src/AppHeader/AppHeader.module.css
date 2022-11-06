@@ -1,0 +1,11 @@
+.div_header{
+    display: flex;
+    height: max-content;
+    gap: 5px;
+    padding-top: 5px;
+
+}
+button{
+    width: calc(100%/5);
+    height: 50px;
+}   
